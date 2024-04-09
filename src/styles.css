@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
